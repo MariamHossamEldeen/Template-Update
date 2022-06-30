@@ -1,0 +1,23 @@
+:root{
+    --mainBackgroundCol:#ffffff;
+    --mainGreenCol:#95c13d;
+    --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --mainFontSmaalCol:#3c3c3c:
+}
+body{
+    background-color: var(--mainBackgroundCol) !important;
+    font-family: var(--font-family-monospace) !important;
+}
+
+aside  .logoImage{
+    width: 140px !important;
+    color: var(--mainFontSmaalCol) !important;
+
+}
+
+#colorlib-aside
+
+
+{
+    background-color: #95c13d59 !important;
+}
